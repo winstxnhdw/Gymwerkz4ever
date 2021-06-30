@@ -29,5 +29,5 @@ const months = [
   'December',
 ]
 
-const dateString = `${days[day]}, ${date} ${months[month]} ${year}\n3:00 PM (1 hour 30 minutes)`
+const dateString = `${days[day]}, ${date} ${months[month]}, ${year}\n3:00 PM (1 hour 30 minutes)`
 document.getElementById('datetime').innerText = dateString
