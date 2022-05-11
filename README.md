@@ -1,5 +1,3 @@
-# Gymwerkz4ever
-
-> [DEPRECATED] No longer in use.
+# Gymwerkz4ever [DEPRECATED]
 
 Haha bench go boom boom
