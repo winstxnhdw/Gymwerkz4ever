@@ -1,3 +1,3 @@
 # Gymwerkz4ever [DEPRECATED]
 
-Haha bench go boom boom
+Gymwerkz's HTML queue template in Ngee Ann Polytechnic.
